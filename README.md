@@ -7,4 +7,4 @@ Sou desenvolvedor back-end em formação.
    * souza8hiago@email.com
    * [LinkedIn](https://www.linkedin.com/in/hiago-souza-dev)
 - Tecnologias  
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python)](https://skillicons.dev)
