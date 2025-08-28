@@ -1,7 +1,7 @@
 # Olá! 👋
 Sou desenvolvedor back-end em formação.
 
-- 🔭 Atualmente estudando Node.js
+- 🔭 Atualmente estudando Javascript
 - 🌱 Também aprendendo Java
 - 📫 Contatos:
    * souza8hiago@email.com
