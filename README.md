@@ -3,4 +3,7 @@ Sou desenvolvedor back-end em formação.
 
 - 🔭 Atualmente estudando Java e Node.js
 - 🌱 Também aprendendo TypeScript
-- 📫 Contato: souza8hiago@email.com
+- 📫 Contatos:
+   * souza8hiago@email.com
+   * [LinkedIn](https://www.linkedin.com/in/hiago-souza-dev)
+  
