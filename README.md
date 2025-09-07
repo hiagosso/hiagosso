@@ -5,6 +5,7 @@ Sou desenvolvedor back-end em formação.
 - 📫 Contatos
    * souza8hiago@email.com
    * [LinkedIn](https://www.linkedin.com/in/hiago-souza-dev)
-- Tecnologias  
+- Tecnologias
+  * Java
   * Html Css Javascript
   * python 
