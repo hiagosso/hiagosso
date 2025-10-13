@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">Eu sou de São Paulo, SP <br><br>- 📚 Atualmente estudando Java para Programação Back-End</p>
+<p align="left">Eu sou de São Paulo, SP <br><br>- 📚 Atualmente estudando para Programação Back-End</p>
 
 ###
 
