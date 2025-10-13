@@ -49,11 +49,17 @@
 <h3 align="left">🔥   Meu status :</h3>
 
 ###
+<p> 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hiagosso&locale=pt-br&hide_title=false&langs_count=5&theme=tokyonight&hide_border=false&order=2&hide=Tex,HTML,CSS" height="150" width="100%" alt="languages graph"  />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=hiagosso&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false&order=1" height="250" width="100%"alt="stats graph"  />
-</div>
+  <img 
+    align = "left" 
+    height ="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=hiagosso&locale=pt-br&hide_title=false&langs_count=5&theme=tokyonight&hide_border=false&order=2&hide=Tex,HTML,CSS"/>
+  
+  <img 
+    align = "left"
+    heigth = "200"
+    src="https://github-readme-stats.vercel.app/api?username=hiagosso&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false&order=1" />
+</p>
 
 ###
