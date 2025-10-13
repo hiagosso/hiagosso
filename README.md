@@ -20,7 +20,10 @@
 
 ###
 
-<p align="left">Eu sou de São Paulo, SP <br><br>- 📚 Atualmente estudando para Programação Back-End</p>
+<p align="left">Sou desenvolvedor Back-End com foco em Java e bancos de dados relacionais.
+Gosto de criar sistemas estáveis, bem estruturados e voltados à performance, aplicando boas práticas de desenvolvimento e princípios de arquitetura limpa.
+
+Atualmente, estou aprimorando minhas habilidades em Java, Spring Boot e SQL, desenvolvendo projetos pessoais que envolvem APIs REST, modelagem de dados e versionamento com Git.</p>
 
 ###
 
