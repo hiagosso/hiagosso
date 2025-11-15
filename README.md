@@ -20,8 +20,7 @@
 
 ###
 
-<p align="left">Sou desenvolvedor Back-End com foco em linguagens e tecnologias voltadas a bancos de dados relacionais. Tenho interesse em criar soluções estáveis, performáticas e bem estruturadas, aplicando boas práticas de código e princípios de arquitetura limpa.
-
+<p align="left">Sou estudante de Desenvolvimento Web Full Stack, aprendendo tecnologias de front-end e back-end. Desenvolvo projetos para aprimorar minhas habilidades e estou aberto a oportunidades de estágio e colaboração.
 </p>
 
 ###
