@@ -55,7 +55,7 @@
   <img 
     align = "left" 
     height ="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=hiagosso&locale=pt-br&hide_title=false&langs_count=5&theme=tokyonight&hide_border=false&order=2&hide=Tex,HTML,CSS"/>
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=hiagosso&locale=pt-br&hide_title=false&langs_count=5&theme=tokyonight&hide_border=false&order=2&hide=Tex,CSS,HTML"/>
   
   <img 
     align = "left"
