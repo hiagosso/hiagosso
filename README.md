@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">Sou estudante de Desenvolvimento Web Full Stack, aprendendo tecnologias de front-end e back-end. Desenvolvo projetos para aprimorar minhas habilidades.
+<p align="left">Sou estudante de Desenvolvimento back-end.
 </p>
 
 ###
