@@ -22,6 +22,6 @@
 
 <h3 align="left">🛠 Linguagens e Ferramentes:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,python,js,html,css,tailwind&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,python,js,html,css&theme=light)](https://skillicons.dev)
 
 
